@@ -1,3 +1,4 @@
-# SongsOfMana.github.io
+# Chosen of Mana
 
-This is a game about heroes adventuring in a world of magic and wonder. 
+Idioma:
+[Español](menu_principal.md) | [Inglés](main_menu.md)
