@@ -1,3 +1,5 @@
+# Elegidos del Maná
+
 - [¿Qué es este juego?]() 
 - [Creación de Personaje](creacion_de_personaje.md)
   - [Afinidad](afinidad.md)
