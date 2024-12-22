@@ -21,4 +21,4 @@
   - [Peligros y Condiciones]()
   - [Fabricación]()
  
-- [The World of Elharis]()
+- [El Mundo de Elharis]()
