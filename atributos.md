@@ -5,7 +5,7 @@
 - Algunos Atributos se usan para calcular Características Derivadas.
 - Durante creación de personaje asigna 6 Puntos de Atributo, teniendo en cuenta que el máximo que puedes tener en un Atributo durante Tier 1 (ver [Avance](avance.md) es 3. Cada nivel ganarás 2 Puntos de Atributo para repartir como desees, respetando siempre el máximo de cada Tier.
 - 
-- ### Lista de Atributos
+### Lista de Atributos
 - **Agilidad** (Ventus): Tu capacidad para el movimiento y la coordinación, usado para saltar, nadar, escalar, etc. Además, se usa para calcular tu [Velocidad](caracteristicas_secundarias.md).
 - **Artesanía** (Aqua): Tu capacidad para crear y trasformar usando arte y técnica. Normalmente requiere de ciertas Competencias. Además, otorga [Competencias Extra](caracteristicas_secundarias.md).
 - **Canalización**: Tu capacidad para canalizar y manipular Maná, creando efectos mágicos. Normalmente requiere de determinados Talentos para usarse.
